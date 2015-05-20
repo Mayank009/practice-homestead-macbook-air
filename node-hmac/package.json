@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"socket.io": "1.0.*",
+		"redis": "0.10.3",
+		"mongodb": "1.4.5",
+		"php-unserialize": "0.0.1",
+		"mcrypt": "0.0.7"
+	}
+}

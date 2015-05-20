@@ -1,0 +1,13 @@
+body {
+	background: #fff;
+	color: #333;
+	padding-top: 50px;
+}
+
+.bg-light {
+	color: #333;
+}
+
+#footer {
+	margin-bottom: 50px;
+}
